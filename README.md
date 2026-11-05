@@ -21,7 +21,7 @@
 |---|---|
 | 还没用过，想了解国内使用条件 | [使用前准备](docs/chatgpt-china-preparation.md) → [注册与登录](docs/chatgpt-sign-up-login.md) |
 | 已经能登录，想学习实际操作 | [网页版第一个任务](docs/chatgpt-web-basics.md) → [场景案例](ROADMAP.md#module-12) |
-| 想在电脑或手机上使用 | [Windows与macOS](ROADMAP.md#module-05) · [网页与手机](ROADMAP.md#module-04) |
+| 想在电脑或手机上使用 | [Windows](docs/chatgpt-windows-app.md) · [macOS](docs/chatgpt-macos-app.md) · [手机](docs/chatgpt-mobile-app.md) |
 | 想找某个功能 | [按功能名称查找](ROADMAP.md#feature-index) |
 | 想了解订阅、续费或付款问题 | [套餐与订阅](ROADMAP.md#module-03) |
 | 遇到错误或找不到入口 | [问题排查](ROADMAP.md#module-13) |
@@ -37,6 +37,13 @@
 7. [小小AI 会员代充指南](docs/chatgpt-topup-order-guide.md)
 8. [付款失败或会员未生效怎么排查](docs/chatgpt-payment-troubleshooting.md)
 9. [取消自动续费与申请退款](docs/chatgpt-cancel-refund.md)
+
+10. [ChatGPT Windows 桌面端安装与使用](docs/chatgpt-windows-app.md)
+11. [ChatGPT Mac 桌面端安装与使用](docs/chatgpt-macos-app.md)
+12. [ChatGPT 手机端下载安装与使用](docs/chatgpt-mobile-app.md)
+13. [ChatGPT 提示词入门与多轮修改](docs/chatgpt-prompting-practice.md)
+14. [用 ChatGPT 写会议纪要和周报](docs/chatgpt-meeting-weekly-report.md)
+15. [ChatGPT 搜索与深度研究](docs/chatgpt-search-research.md)
 
 ## 内容地图
 

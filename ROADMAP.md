@@ -88,6 +88,8 @@
 
 ## 04｜网页端与移动端
 
+- [ChatGPT 手机端下载安装与使用](docs/chatgpt-mobile-app.md)
+
 - [ChatGPT 网页版怎么用](docs/chatgpt-web-basics.md)
 
 - 网页端界面导览：输入区、侧栏、账号与设置。
@@ -102,6 +104,9 @@
 <a id="module-05"></a>
 
 ## 05｜桌面端完整指南
+
+- [Windows 桌面端安装与使用](docs/chatgpt-windows-app.md)
+- [Mac 桌面端安装与使用](docs/chatgpt-macos-app.md)
 
 - 桌面端是什么，与浏览器访问有什么不同。
 - Windows下载、安装、登录与更新。
@@ -118,6 +123,8 @@
 
 ## 06｜提问、模型与回答质量
 
+- [提示词入门与多轮修改](docs/chatgpt-prompting-practice.md)
+
 - 完成第一个任务：把练习材料整理成可检查的成果。
 - 目标、背景、输出与必要边界怎么写。
 - 上下文为什么影响结果，何时补材料或另开聊天。
@@ -130,6 +137,8 @@
 <a id="module-07"></a>
 
 ## 07｜搜索、研究与资料整理
+
+- [ChatGPT 搜索与深度研究](docs/chatgpt-search-research.md)
 
 - 何时需要搜索，何时应优先使用已有材料。
 - 搜索入口、引用和来源页面如何核对。
@@ -200,6 +209,8 @@
 <a id="module-12"></a>
 
 ## 12｜实用场景与案例
+
+- [用 ChatGPT 写会议纪要和周报](docs/chatgpt-meeting-weekly-report.md)
 
 - 办公：把会议记录整理成摘要、决定与待办。
 - 办公：从原始材料完成周报或项目汇报。
