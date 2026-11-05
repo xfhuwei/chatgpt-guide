@@ -1,6 +1,6 @@
 # ChatGPT 注册与登录教程：邮箱、Google、Apple 账号怎么选
 
-[知识库首页](../README.md) · [登录、隐私与账号](../ROADMAP.md#module-02) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [登录、隐私与账号](../catalog/topics/accounts.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用环境：ChatGPT 官方网页；使用前先确认[地区与账号准备事项](chatgpt-china-preparation.md)。
 
@@ -95,4 +95,4 @@ OpenAI 的[登录帮助](https://help.openai.com/en/articles/7426629-why-cant-i-
 - [网页版第一次使用](chatgpt-web-basics.md)：得到事实完整的工作群通知并学会自行检查。
 - 密码恢复与更换邮箱：按原认证方式恢复登录并检查自助换邮箱资格。
 
-[返回登录、隐私与账号专题](../ROADMAP.md#module-02) · [完整目录](../ROADMAP.md)
+[返回登录、隐私与账号专题](../catalog/topics/accounts.md) · [完整目录](../catalog/ALL_ARTICLES.md)

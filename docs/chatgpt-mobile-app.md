@@ -1,6 +1,6 @@
 # ChatGPT 手机端下载安装与使用：iPhone、Android 入门教程
 
-[知识库首页](../README.md) · [网页、手机与桌面](../ROADMAP.md#module-04) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [网页、手机与桌面](../catalog/topics/devices.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用环境：官方iOS与Android应用；需要先满足官方地区及商店条件。
 
@@ -95,4 +95,4 @@
 - 多设备同步排查：辨认账号、聊天类型、本地文件和云端接续差异。
 - 语音练习：完成5问以内练习并记录3句表达。
 
-[返回网页、手机与桌面专题](../ROADMAP.md#module-04) · [完整目录](../ROADMAP.md)
+[返回网页、手机与桌面专题](../catalog/topics/devices.md) · [完整目录](../catalog/ALL_ARTICLES.md)

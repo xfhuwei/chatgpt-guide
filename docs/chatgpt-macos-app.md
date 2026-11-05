@@ -1,6 +1,6 @@
 # ChatGPT Mac 桌面端怎么安装和使用？系统要求、登录与文件练习
 
-[知识库首页](../README.md) · [网页、手机与桌面](../ROADMAP.md#module-04) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [网页、手机与桌面](../catalog/topics/devices.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用环境：官方macOS应用；安装与快捷入口以实际版本为准。
 
@@ -82,4 +82,4 @@
 - Record录音与会议笔记：区分Record与Meetings入口，核对录音转写和行动项。
 - 处理本地文件：在指定练习目录生成一个可复查的输出文件。
 
-[返回网页、手机与桌面专题](../ROADMAP.md#module-04) · [完整目录](../ROADMAP.md)
+[返回网页、手机与桌面专题](../catalog/topics/devices.md) · [完整目录](../catalog/ALL_ARTICLES.md)

@@ -1,6 +1,6 @@
 # ChatGPT Windows 桌面端安装与使用：下载、登录和第一次文件任务
 
-[知识库首页](../README.md) · [网页、手机与桌面](../ROADMAP.md#module-04) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [网页、手机与桌面](../catalog/topics/devices.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用环境：Windows官方ChatGPT桌面应用；界面步骤待结合实机截图复核。
 
@@ -94,4 +94,4 @@
 - 处理本地文件：在指定练习目录生成一个可复查的输出文件。
 - [iPhone与Android](chatgpt-mobile-app.md)：正确安装登录并完成可检查的短任务。
 
-[返回网页、手机与桌面专题](../ROADMAP.md#module-04) · [完整目录](../ROADMAP.md)
+[返回网页、手机与桌面专题](../catalog/topics/devices.md) · [完整目录](../catalog/ALL_ARTICLES.md)

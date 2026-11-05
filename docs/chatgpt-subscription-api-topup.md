@@ -1,6 +1,6 @@
 # ChatGPT 充值到底买什么？会员订阅、API 余额与代充的区别
 
-[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [套餐、充值与账单](../catalog/topics/subscription.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用对象：准备购买或续费，但不确定商品类型的读者。
 
@@ -95,4 +95,4 @@ OpenAI 当前将 ChatGPT 与 API 平台分别计费，API 余额也与 ChatGPT �
 - [套餐怎么选](chatgpt-plans-comparison.md)：选出待比较的档位，明确升级希望解决的限制。
 - 用量与上限：识别限制类型，按实际任务安排用量和升级判断。
 
-[返回套餐、充值与账单专题](../ROADMAP.md#module-03) · [完整目录](../ROADMAP.md)
+[返回套餐、充值与账单专题](../catalog/topics/subscription.md) · [完整目录](../catalog/ALL_ARTICLES.md)

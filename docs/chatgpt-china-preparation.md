@@ -1,6 +1,6 @@
 # 国内怎么用 ChatGPT？从网络准备到第一次对话
 
-[知识库首页](../README.md) · [认识与开始](../ROADMAP.md#module-01) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [认识与开始](../catalog/topics/start.md) · [已上线教程](../README.md)
 
 更新与资料核对日期为 2026 年 11 月 5 日。
 
@@ -163,4 +163,4 @@
 
 接下来可以继续学习网页版的对话管理、文件上传和常用入口。[ChatGPT 网页版入门](chatgpt-web-basics.md)
 
-[返回认识与开始专题](../ROADMAP.md#module-01) · [完整目录](../ROADMAP.md)
+[返回认识与开始专题](../catalog/topics/start.md) · [完整目录](../catalog/ALL_ARTICLES.md)

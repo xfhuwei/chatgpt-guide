@@ -1,6 +1,6 @@
 # ChatGPT 网页版怎么用：从第一条提问到保存可用结果
 
-[知识库首页](../README.md) · [网页、手机与桌面](../ROADMAP.md#module-04) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [网页、手机与桌面](../catalog/topics/devices.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用环境：ChatGPT 网页版；练习材料为原创虚构示例。
 
@@ -108,4 +108,4 @@
 - [提示词与多轮修改](chatgpt-prompting-practice.md)：完成活动文案与逐项事实核对。
 - [iPhone与Android](chatgpt-mobile-app.md)：正确安装登录并完成可检查的短任务。
 
-[返回网页、手机与桌面专题](../ROADMAP.md#module-04) · [完整目录](../ROADMAP.md)
+[返回网页、手机与桌面专题](../catalog/topics/devices.md) · [完整目录](../catalog/ALL_ARTICLES.md)

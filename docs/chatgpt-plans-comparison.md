@@ -1,6 +1,6 @@
 # ChatGPT Free、Go、Plus、Pro 怎么选？按任务与使用强度判断
 
-[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [套餐、充值与账单](../catalog/topics/subscription.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用范围：个人套餐选择；价格与权益在付款前需再次查看账号结账页。
 
@@ -110,4 +110,4 @@
 - 官方订阅步骤：核对账号、购买渠道和账期，完成官方订阅及续费前检查。
 - 会员购买前检查：购买前明确产品、账号控制、续费和验收。
 
-[返回套餐、充值与账单专题](../ROADMAP.md#module-03) · [完整目录](../ROADMAP.md)
+[返回套餐、充值与账单专题](../catalog/topics/subscription.md) · [完整目录](../catalog/ALL_ARTICLES.md)

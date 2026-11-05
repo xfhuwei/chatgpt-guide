@@ -1,6 +1,6 @@
 # 小小AI ChatGPT 会员代充指南：下单、查询进度与交付验收
 
-[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [套餐、充值与账单](../catalog/topics/subscription.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。本文根据小小AI公开服务页面整理，以 Plus 订单为例；没有进行真实付款或代充实测。
 
@@ -103,4 +103,4 @@ ChatGPT官方页面当前显示：
 - 账单与重复扣款：按渠道找凭证并判断两笔交易的状态。
 - [付款失败或会员未生效](chatgpt-payment-troubleshooting.md)：找到所属问题分支并准备有效反馈材料。
 
-[返回套餐、充值与账单专题](../ROADMAP.md#module-03) · [完整目录](../ROADMAP.md)
+[返回套餐、充值与账单专题](../catalog/topics/subscription.md) · [完整目录](../catalog/ALL_ARTICLES.md)

@@ -1,6 +1,6 @@
 # ChatGPT 怎么取消自动续费和申请退款？网页、Apple、Google Play 分开操作
 
-[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [套餐、充值与账单](../catalog/topics/subscription.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用范围：个人 ChatGPT 订阅；企业工作区不在本文操作范围内。
 
@@ -98,4 +98,4 @@
 - 账单与重复扣款：按渠道找凭证并判断两笔交易的状态。
 - 会员购买前检查：购买前明确产品、账号控制、续费和验收。
 
-[返回套餐、充值与账单专题](../ROADMAP.md#module-03) · [完整目录](../ROADMAP.md)
+[返回套餐、充值与账单专题](../catalog/topics/subscription.md) · [完整目录](../catalog/ALL_ARTICLES.md)

@@ -1,6 +1,6 @@
 # ChatGPT 搜索与深度研究怎么用？从查一个事实到核对一份报告
 
-[知识库首页](../README.md) · [搜索、PDF与研究](../ROADMAP.md#module-07) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [搜索、PDF与研究](../catalog/topics/research.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用环境：ChatGPT网页；桌面端入口另作说明。练习提供提问方法，不预设实时搜索结果。
 
@@ -102,4 +102,4 @@
 - 完整深度研究流程：完成选题、研究计划、来源限定、报告与核对。
 - 逐条核查来源：把结论对应到可打开的原始页面，识别推断与未知。
 
-[返回搜索、PDF与研究专题](../ROADMAP.md#module-07) · [完整目录](../ROADMAP.md)
+[返回搜索、PDF与研究专题](../catalog/topics/research.md) · [完整目录](../catalog/ALL_ARTICLES.md)

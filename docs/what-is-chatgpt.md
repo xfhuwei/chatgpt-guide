@@ -1,6 +1,6 @@
 # ChatGPT 是什么？功能、用途与新手入门
 
-[知识库首页](../README.md) · [认识与开始](../ROADMAP.md#module-01) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [认识与开始](../catalog/topics/start.md) · [已上线教程](../README.md)
 
 作者：小小AI科技｜资料核对：2026年11月2日
 
@@ -161,11 +161,11 @@ ChatGPT有免费和付费方案。不同方案的功能、用量及适用范围�
 
 已经能够使用，可以从上面的通知练习开始，再尝试把材料换成自己的工作记录。每次选一个小任务，保留有效的提问方式，并检查结果是否真正满足需求。
 
-[返回知识库首页](../README.md) · [完整目录](../ROADMAP.md)
+[返回知识库首页](../README.md) · [完整目录](../catalog/ALL_ARTICLES.md)
 
 ## 接下来按你的情况继续
 
 - [国内怎么用 ChatGPT](chatgpt-china-preparation.md)。连接 VPN 或机场代理，排查官网与登录问题，完成第一次中文对话。
 - 7个新手练习：依次完成7个小任务并形成可核对的交付物。
 
-[返回认识与开始专题](../ROADMAP.md#module-01) · [完整目录](../ROADMAP.md)
+[返回认识与开始专题](../catalog/topics/start.md) · [完整目录](../catalog/ALL_ARTICLES.md)

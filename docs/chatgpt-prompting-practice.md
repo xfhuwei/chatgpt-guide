@@ -1,6 +1,6 @@
 # ChatGPT 提示词怎么写？用一个完整例子学会提问和多轮修改
 
-[知识库首页](../README.md) · [提问、模型与回答质量](../ROADMAP.md#module-06) · [已上线教程](../README.md)
+[知识库首页](../README.md) · [提问、模型与回答质量](../catalog/topics/prompting.md) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用环境：普通文字对话；示例材料与参考结果均为原创虚构。
 
@@ -123,4 +123,4 @@ OpenAI的[官方提示指南](https://learn.chatgpt.com/docs/prompting)建议按
 - 回答质量与上下文：用小材料复现错误，修正冲突要求并制作长对话交接卡。
 - [会议纪要与周报](chatgpt-meeting-weekly-report.md)：分清决定、建议、待办、完成，得到两类可核查成果。
 
-[返回提问、模型与回答质量专题](../ROADMAP.md#module-06) · [完整目录](../ROADMAP.md)
+[返回提问、模型与回答质量专题](../catalog/topics/prompting.md) · [完整目录](../catalog/ALL_ARTICLES.md)
