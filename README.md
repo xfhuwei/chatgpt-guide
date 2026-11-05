@@ -19,8 +19,8 @@
 
 | 你现在的情况 | 建议从哪里开始 |
 |---|---|
-| 还没用过，想了解国内使用条件 | [使用前准备](ROADMAP.md#module-01) → [注册与登录](ROADMAP.md#module-02) |
-| 已经能登录，想学习实际操作 | [完成第一个任务](ROADMAP.md#module-06) → [场景案例](ROADMAP.md#module-12) |
+| 还没用过，想了解国内使用条件 | [使用前准备](docs/chatgpt-china-preparation.md) → [注册与登录](docs/chatgpt-sign-up-login.md) |
+| 已经能登录，想学习实际操作 | [网页版第一个任务](docs/chatgpt-web-basics.md) → [场景案例](ROADMAP.md#module-12) |
 | 想在电脑或手机上使用 | [Windows与macOS](ROADMAP.md#module-05) · [网页与手机](ROADMAP.md#module-04) |
 | 想找某个功能 | [按功能名称查找](ROADMAP.md#feature-index) |
 | 想了解订阅、续费或付款问题 | [套餐与订阅](ROADMAP.md#module-03) |
@@ -28,10 +28,15 @@
 
 ## 已上线教程
 
-- [ChatGPT 会员、API 余额与代充有什么区别](docs/chatgpt-subscription-api-topup.md)
-- [小小AI 会员代充指南](docs/chatgpt-topup-order-guide.md)
-- [付款失败或会员未生效怎么排查](docs/chatgpt-payment-troubleshooting.md)
-- [取消自动续费与申请退款](docs/chatgpt-cancel-refund.md)
+1. [ChatGPT 是什么？功能、用途与新手入门](docs/what-is-chatgpt.md)
+2. [国内怎么用 ChatGPT？从网络准备到第一次对话](docs/chatgpt-china-preparation.md)
+3. [ChatGPT 注册与登录教程](docs/chatgpt-sign-up-login.md)
+4. [ChatGPT 网页版怎么用](docs/chatgpt-web-basics.md)
+5. [Free、Go、Plus、Pro 套餐怎么选](docs/chatgpt-plans-comparison.md)
+6. [会员订阅、API 余额与代充的区别](docs/chatgpt-subscription-api-topup.md)
+7. [小小AI 会员代充指南](docs/chatgpt-topup-order-guide.md)
+8. [付款失败或会员未生效怎么排查](docs/chatgpt-payment-troubleshooting.md)
+9. [取消自动续费与申请退款](docs/chatgpt-cancel-refund.md)
 
 ## 内容地图
 

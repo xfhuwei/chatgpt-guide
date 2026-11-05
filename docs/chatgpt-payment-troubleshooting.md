@@ -1,6 +1,6 @@
 # ChatGPT 付款失败或会员未生效怎么办？按四种情况排查
 
-[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [订阅专题目录](../ROADMAP.md#module-03)
+[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用范围：个人 ChatGPT 订阅的付款及权益显示问题。
 

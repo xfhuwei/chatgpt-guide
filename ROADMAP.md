@@ -34,6 +34,9 @@
 
 ## 01｜认识 ChatGPT 与使用前准备
 
+- [ChatGPT 是什么？功能、用途与新手入门](docs/what-is-chatgpt.md)
+- [国内怎么用 ChatGPT？从网络准备到第一次对话](docs/chatgpt-china-preparation.md)
+
 - ChatGPT是什么：常见用途、能力边界与适合的任务。
 - 国内读者使用前需要了解什么：支持条件、可用入口与服务差异。
 - 如何辨认官方入口、第三方网站和独立服务。
@@ -45,6 +48,8 @@
 <a id="module-02"></a>
 
 ## 02｜注册、登录与账号管理
+
+- [ChatGPT 注册与登录教程](docs/chatgpt-sign-up-login.md)
 
 - 注册方式、所需条件与完整流程。
 - 邮箱及第三方身份登录：各自如何开始、如何区分账号。
@@ -62,6 +67,7 @@
 
 已上线教程：
 
+- [Free、Go、Plus、Pro 套餐怎么选](docs/chatgpt-plans-comparison.md)
 - [会员订阅、API 余额与代充的区别](docs/chatgpt-subscription-api-topup.md)
 - [小小AI会员代充的下单与验收](docs/chatgpt-topup-order-guide.md)
 - [付款失败或会员未生效排查](docs/chatgpt-payment-troubleshooting.md)
@@ -81,6 +87,8 @@
 <a id="module-04"></a>
 
 ## 04｜网页端与移动端
+
+- [ChatGPT 网页版怎么用](docs/chatgpt-web-basics.md)
 
 - 网页端界面导览：输入区、侧栏、账号与设置。
 - 新建聊天、发送消息、编辑与继续追问。

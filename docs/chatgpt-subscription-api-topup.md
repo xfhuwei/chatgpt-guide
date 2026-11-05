@@ -1,6 +1,6 @@
 # ChatGPT 充值到底买什么？会员订阅、API 余额与代充的区别
 
-[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [订阅专题目录](../ROADMAP.md#module-03)
+[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用对象：准备购买或续费，但不确定商品类型的读者。
 
@@ -86,13 +86,13 @@ OpenAI 当前将 ChatGPT 与 API 平台分别计费，API 余额也与 ChatGPT �
 
 ## 五、还没决定套餐，先完成这一步
 
-把自己的用途写成一句话：“我主要用它做什么，每周多少次，现在卡在哪里。”带着这句话阅读套餐选择指南，更容易判断。
+把自己的用途写成一句话：“我主要用它做什么，每周多少次，现在卡在哪里。”带着这句话阅读[套餐选择指南](chatgpt-plans-comparison.md)，更容易判断。
 
 需要第三方办理时，可从[小小AI充值中心](https://xiaoxiao.pro/shop?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_guide&utm_content=a05_shop)查看产品分类。小小AI是独立第三方服务方；具体商品和服务条件按当前页面及订单确认内容核对。完整的下单与验收方法见[小小AI会员办理指南](chatgpt-topup-order-guide.md)。
 
 ## 接下来按你的情况继续
 
-- 套餐怎么选：选出待比较的档位，明确升级希望解决的限制。
+- [套餐怎么选](chatgpt-plans-comparison.md)：选出待比较的档位，明确升级希望解决的限制。
 - 用量与上限：识别限制类型，按实际任务安排用量和升级判断。
 
 [返回套餐、充值与账单专题](../ROADMAP.md#module-03) · [完整目录](../ROADMAP.md)

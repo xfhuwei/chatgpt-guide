@@ -1,6 +1,6 @@
 # ChatGPT 怎么取消自动续费和申请退款？网页、Apple、Google Play 分开操作
 
-[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [订阅专题目录](../ROADMAP.md#module-03)
+[知识库首页](../README.md) · [套餐、充值与账单](../ROADMAP.md#module-03) · [已上线教程](../README.md)
 
 资料核对：2026-11-03。适用范围：个人 ChatGPT 订阅；企业工作区不在本文操作范围内。
 
