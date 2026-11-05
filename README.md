@@ -4,7 +4,7 @@
 
 由小小AI科技维护，属于独立第三方资料，与 OpenAI 无隶属关系。
 
-> 内容持续补充中。目前提供目录预览，教程正文将逐篇上线。功能的适用平台、账号条件与版本信息见对应教程。
+> 内容持续补充中，已上线的教程可从下方直接阅读。功能的适用平台、账号条件与版本信息见对应教程。
 
 ## 这个知识库适合谁
 
@@ -25,6 +25,13 @@
 | 想找某个功能 | [按功能名称查找](ROADMAP.md#feature-index) |
 | 想了解订阅、续费或付款问题 | [套餐与订阅](ROADMAP.md#module-03) |
 | 遇到错误或找不到入口 | [问题排查](ROADMAP.md#module-13) |
+
+## 已上线教程
+
+- [ChatGPT 会员、API 余额与代充有什么区别](docs/chatgpt-subscription-api-topup.md)
+- [小小AI 会员代充指南](docs/chatgpt-topup-order-guide.md)
+- [付款失败或会员未生效怎么排查](docs/chatgpt-payment-troubleshooting.md)
+- [取消自动续费与申请退款](docs/chatgpt-cancel-refund.md)
 
 ## 内容地图
 

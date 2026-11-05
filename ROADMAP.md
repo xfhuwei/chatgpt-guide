@@ -60,6 +60,13 @@
 
 ## 03｜套餐、订阅、充值与续费
 
+已上线教程：
+
+- [会员订阅、API 余额与代充的区别](docs/chatgpt-subscription-api-topup.md)
+- [小小AI会员代充的下单与验收](docs/chatgpt-topup-order-guide.md)
+- [付款失败或会员未生效排查](docs/chatgpt-payment-troubleshooting.md)
+- [取消自动续费与申请退款](docs/chatgpt-cancel-refund.md)
+
 - 免费和付费方案怎么比较：根据实际任务选择。
 - 套餐价格、权益与额度如何查证和理解。
 - 官方网页订阅的准备、流程与结果核对。
